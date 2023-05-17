@@ -40,5 +40,6 @@
     },
     "scripts-descriptions": {
         "check": "Rodas as verificações do codigo. PHAN e PHPCS"
-    }
+    },
+    "bin": ["buscar-cursos.php"]
 }
